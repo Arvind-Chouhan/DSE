@@ -1,0 +1,46 @@
+<html>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <h2>Product Information</h2>
+        <table border="1" cellspacing="0" cellpadding="10" >
+            <tr>
+                <th>Name</th>
+                <th>Category</th>
+                <th>Brand</th>
+                <th>Quantity</th>
+                <th bgcolor="yellow">Price(INR)</th>
+            </tr>
+            <tr>
+                <td>Laptop</td>
+                <td>Electronics</td>
+                <td>ABC Electronics</td>
+                <td>10</td>
+                <td bgcolor="yellow">35,000.0</td>
+            </tr>
+            <tr>
+                <td>T-shirt</td>
+                <td>Apparel</td>
+                <td>XYZ Clothing </td>
+                <td>25</td>
+                <td bgcolor="yellow">799.00</td>
+             </tr>
+             <tr>
+                <td>Cookware Set </td>
+                <td>Home&Kitchen </td>
+                <td>PQR Homeware </td>
+                <td>5</td>
+                <td bgcolor="yellow">2,500.00</td>
+             </tr>
+             </tr>
+        </table>
+          
+        
+        
+    </body>
+    </html>

@@ -1,0 +1,50 @@
+<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        Name <br>
+        <input type="text" name="Name" placeholder="ENTER YOUR NAME"><br>
+    </form>
+    <form >
+        Gender <br>
+        <input type="radio" name="Gender" id="Gender" value="MALE">MALE<br>
+        <input type="radio" name="Gender" id="Gender" value="FEMALE">FEMALE<br>
+        <input type="radio" name="Gender" id="Gender" value="OTHERS">OTHERS<br>
+    </form>
+    <form >
+        MOBILE NUMBER <br>
+        <input type="tel" name="MOBILE NUMBER" id="MOBILE NUMBER">
+    </form>
+    <form>
+        MAIL ID <br>
+        <input type="email" name="MAIL ID" id="MAIL Id">
+    </form>
+    <form>
+        CITY <br>
+        <select id="CITY" name="CITY">
+          <option value="BANGALORE">BANGALORE</option>
+          <option value="MANGLORE">MANGALORE</option>
+          <option value="PUNE">PUNE</option>
+          <option value="DELHI">DELHI</option>
+        </select>
+        
+    </form>
+    <form>
+        COUNTRY <br>
+        <select id="COUNTRY" name="COUNTRY">
+            <option value="INDIA">INDIA</option>
+            <option value="AFRICA">AFRICA</option>
+            <option value="NEW ZEALAND">NEW ZEALAND </option>
+            <option value="PAKISTAN">PAKISTAN</option>
+          </select> <br> <br>
+<input type="submit" name="" id="">
+
+    </form>
+</body>
+</html>
